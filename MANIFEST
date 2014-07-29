@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-Mechanize-URI-Title.t
+lib/WWW/Mechanize/URI/Title.pm

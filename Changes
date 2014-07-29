@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::Mechanize::URI::Title.
+
+0.01  Tue Jul 29 08:45:56 2014
+	- original version; created by h2xs 1.23 with options
+		-A -X -n WWW::Mechanize::URI::Title
+
