@@ -88,3 +88,5 @@ sub get_title {
     return $title if $title;
     return 0;
 }
+
+1;
