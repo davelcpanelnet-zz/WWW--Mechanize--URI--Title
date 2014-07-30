@@ -71,7 +71,7 @@ sub get_title {
             } else {
                 $title = $_;
             }
-	    }
+	}
     }
 
     $title =~ s/^\s*//;
