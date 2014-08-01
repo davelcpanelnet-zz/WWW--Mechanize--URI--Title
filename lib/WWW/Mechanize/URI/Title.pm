@@ -61,6 +61,7 @@ sub get_title {
     my $trove = $mech->{content};
     $trove =~ tr/\r\n//d;
     $trove =~ s/\s{2,}/ /g;
+    $trove =~ s/></> </g;
     my @trove = split ( /\s/, $trove );
 
     my $title;
